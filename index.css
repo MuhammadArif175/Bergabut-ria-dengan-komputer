@@ -1,0 +1,24 @@
+.lembar2 {
+    margin-top: 2%;
+    margin-right: 6%;
+    margin-left: 6%;
+    display: inline-block;
+    border-radius: 20px;
+    width: 1200px;
+    height: 100%;
+    background-color: rgb(232, 0, 108);
+}
+
+.nav h1 {
+    text-shadow: 1px 2px 3px grey;
+    font-family: inherit;
+    color: white;
+    display: inline-block;
+}
+
+.nav a {
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
